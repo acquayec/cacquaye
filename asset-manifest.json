@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cacquaye/static/css/main.9661cd9b.css",
+    "main.js": "/cacquaye/static/js/main.bf6d41b4.js",
+    "static/js/787.b1171a61.chunk.js": "/cacquaye/static/js/787.b1171a61.chunk.js",
+    "index.html": "/cacquaye/index.html",
+    "main.9661cd9b.css.map": "/cacquaye/static/css/main.9661cd9b.css.map",
+    "main.bf6d41b4.js.map": "/cacquaye/static/js/main.bf6d41b4.js.map",
+    "787.b1171a61.chunk.js.map": "/cacquaye/static/js/787.b1171a61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9661cd9b.css",
+    "static/js/main.bf6d41b4.js"
+  ]
+}
